@@ -1,1 +1,11 @@
-# test102622-athlete-profile-backend
+# Node.js Express & MongoDB: CRUD Rest APIs
+
+## Project setup
+```
+npm install
+```
+
+### Run
+```
+node server.js
+```
